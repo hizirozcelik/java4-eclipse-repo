@@ -8,6 +8,7 @@ public class GitTest1Application {
 
 	public static void main(String[] args) {
 		SpringApplication.run(GitTest1Application.class, args);
+		//test from test-1
 	}
 
 }
